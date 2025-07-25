@@ -18,7 +18,8 @@
 
 为了男朋友身体健康，我开发了一款插件，这插件可以 40 分钟提醒一次该起来起来运动啦，并且展示一些骚骚的动图。12 个经典小动作让你肩不痛，腰不酸，腿不麻！
 
-![img](https://tva1.sinaimg.cn/large/008eGmZEly1gmwhno7c9vg30f404qdoi.gif)
+![img](http://i0.hdslb.com/bfs/new_dyn/26a31a23c03b8f9652a5ecfc4116a9e16457791.gif)
+
 
 ### 安装
 
